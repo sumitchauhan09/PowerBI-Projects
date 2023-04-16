@@ -5,4 +5,4 @@ Explored the Human Resource dataset
 
 2 - Helps Understanding in department, age and gender wise attrition rate.
 
-3 - Educating on what departments are excelling and where we need to deep down to root cause.
+3 - Educating on what departments are excelling and where we need to deep down to understand the root cause.
