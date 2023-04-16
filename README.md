@@ -1,5 +1,5 @@
 # PowerBI-Projects
-Repository consisting of all the worked projects 
+Explored the Human Resource dataset
 
 1 - Talks about the company's total employees and its attrition rate.
 
